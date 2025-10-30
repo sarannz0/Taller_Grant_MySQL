@@ -1,4 +1,4 @@
-## Taller GRANT
+## Taller GRANT MYSQL2
 
 1. Crear usuarios para el `Sistema de Ecommerce Zapatos`
 
