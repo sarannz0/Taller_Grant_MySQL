@@ -1,4 +1,4 @@
-## 🧠 Descripción de la Actividad – Taller GRANT
+## 🧠 Descripción Actividad – Taller GRANT
 
 En esta actividad se implementará un esquema de control de acceso para el **Sistema de Ecommerce Zapatos**, aplicando los principios de seguridad y administración de usuarios en MySQL.
 
